@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
 change on main for stash
-train stash truck
+change 2nd
